@@ -7,3 +7,4 @@ Integrantes:
 # jaime cervantes
 # Maria Juliana Martinez
 # Arnobel de Jesus Chamorro Cogollo
+# Donaldo Doria Barrios
