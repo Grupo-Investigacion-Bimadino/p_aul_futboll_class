@@ -5,3 +5,4 @@ Este proyecto tiene la funcion de concientizar a los jovenes y niños de hoy en 
 Integrantes: 
 # Nair Madera 
 ## Franklin Martínez A. Docente
+# María Juliana Martínez Herazo
