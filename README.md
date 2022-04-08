@@ -4,4 +4,4 @@ Desarrollo educativo en los procesos informativos y prácticos para una mejor pr
 Bla fundacion deportiva el desarro social y personal
 Integrantes: 
 # Nair Madera 
-##Franklin Martínez A. Docente
+## Franklin Martínez A. Docente
