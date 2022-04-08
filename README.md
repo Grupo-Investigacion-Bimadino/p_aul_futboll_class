@@ -8,4 +8,3 @@ Integrantes:
 # Maria Juliana Martinez
 # Arnobel de Jesus Chamorro Cogollo
 # Donaldo Doria Barrios
-monda pelua
