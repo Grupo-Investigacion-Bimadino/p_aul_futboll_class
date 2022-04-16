@@ -1,0 +1,59 @@
+*{
+    margin: 6px;
+    padding: 0px;
+}
+body{
+    background: lightgray;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#container {
+    /*width: 70%;*/
+    width: 1100px;
+    margin: 0px auto;
+    border: 1px solid black;
+}
+header{
+    background: red;
+    height: 100px;
+    width: 99%;
+    margin: 5px;
+    text-align: center;
+    line-height: 100px;
+    color: white;
+    border-bottom: 3px white;
+}
+
+nav{
+    background: lightblue;
+    height: 70px;
+    width: 99%;
+    margin: 5px;
+    text-align: center;
+    line-height: 70px;
+    color: black;
+    list-style: nome;
+}
+.clearfix{
+    clear: both;
+}
+#contenet{
+    float: left;
+    width: 79%;
+    background: greenyellow;
+    height: 300px;
+}
+aside{
+    float: left;
+    width: 18.8%;
+    background: orangered;
+    height: 300px;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 50px;
+    line-height: 50px;
+}
