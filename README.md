@@ -1,9 +1,17 @@
-#FUNDAMENTACION DEPORTIVA EN EL AREA DE LA EDUCACION:
+#EL FUTBOL COMO ACTIVIDAD RECREATIVA Y EDUCATIVA:
 
-Desarrollo educativo en los procesos informativos y prácticos para una mejor profundización de los niños entre 8 a 12 años con el fin de que aprendan mediante
-la fundacion deportiva del desarrollo social y personal.
-Este proyecto tiene la funcion de concientizar a los jovenes y niños de hoy en dia sobre la relevancia que tienen las actividades recreativas (futbol, basketball, voleibol, etc), para que en su tiempo libre no se dediquen a actividades poco producctivas con las cuales en un futuro pueden salir gravemente perjudicados.
-pero en este caso solo nos enfocaremos en un solo deporte este seria el futbol ya que es el mas comun y al que los niños le llama mas la atencion y genera mas motivacion ala hora de aprende.
+#INTRODUCION
+cebido ala necesidad de hacer un README educativo un grupo de estudiantes de tercer y cuarto se mestre se coloca en la creacion de este, introduciendo al futbol como una actividad ludica, recreativay educativa, aplicando o asociando al contexto del corregimiento del carito ubicado en lorica- cordoba
+se trata o mas bien se basa sobre el desarrollo educativo en los procesos informativos y prácticos para una mejor profundización de los niños entre 8 a 12 años con el  fin de que aprendan mediante la fundamentacion  deportiva del desarrollo social y personal.
+Este proyecto tiene la funcion de concientizar a los jovenes y niños de hoy en dia sobre la relevancia que tienen las actividades recreativas en este caso utlizaremos el futbol, para que en su tiempo libre no se dediquen a actividades poco producctivas con las cuales en un futuro pueden salir gravemente perjudicados.
+La finalidad de la Educación Física es fortalecer las aptitudes y capacidades de los individuos para tomar medidas preventivas encaminadas a la no aparición de alteraciones y así controlar los factores determinantes de la salud y lograr un cambio positivo.
+Podemos decir que el juego es un recurso didáctico, que usamos para estimular a los jóvenes con el fin, de que adquieran una serie de actitudes, valores y normas.
+
+#JUSTIFICACION 
+
+De todos es sabido que la actividad física y el deporte son necesarios para el desarrollointegral del individuo, sobre todo en edad escolar donde contribuyen a crear una serie de hábitos, aplicables para mejorar la calidad de vida del mismo en edad avanzada,cesario empezar a influir desde temprana edad para esto es ne esdecir, para construir un estilo de vida activa, alejada del sedentarismo. Hay que crear adherencia a la práctica de actividad física en tiempo de ocio de los alumnos, así como
+hábitos saludables alcanzando una mejora en la calidad de vida. La iniciación al fútbol como actividad física dentro del sistema educativo solo debe ser enfocada desde un punto de vista puramente educativo, en el que la formación integral del alumnado se logre mediante los elementos del juego y la
+técnica deportiva.
 
 #OBJETIVOS DEL PROYECTO:
 
