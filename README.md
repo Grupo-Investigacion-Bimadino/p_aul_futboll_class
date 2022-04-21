@@ -17,10 +17,15 @@ técnica deportiva.
 #OBJETIVOS DEL PROYECTO:
 
 .Recrear y fomentar el deporte en los niños para alejarlos de los malos habitos en sus tiempos libres.
+
 .promover una diciplina educativa en los niños fomentando la lectura, utilizando como metodos o recursos la historia del futbol.
+
 .ayudar a los niños y jovenes apasionados del futbol a practicarlo mayor tecnicas, balon pie.
+
 .Orientar un proyecto para capturar a nuevas generaciones en el deporte del fútbol
+
 .Promover un método lúdico para la iniciación del fútbol
+
 .Alejar durante una semana, a los alumnos de hábitos no beneficiosos, como pueden ser la televisión o los videojuegos y disminuir con ello el sedentarismo
 
 
