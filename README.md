@@ -2,9 +2,9 @@
 
 #INTRODUCION:
 
-Debido ala necesidad de hacer un README educativo un grupo de estudiantes de tercer y cuarto se mestre se coloca en la creacion de este, introduciendo al futbol como una actividad ludica, recreativay educativa, aplicando o asociando al contexto del corregimiento del carito ubicado en lorica- cordoba
+Debido ala necesidad de hacer un README educativo un grupo de estudiantes de tercer y cuarto se mestre se coloca en la creacion de este, introduciendo al futbol como una actividad ludica, recreativa y educativa, aplicando o asociando al contexto del corregimiento del carito ubicado en lorica- cordoba
 se trata o mas bien se basa sobre el desarrollo educativo en los procesos informativos y prácticos para una mejor profundización de los niños entre 8 a 12 años con el  fin de que aprendan mediante la fundamentacion  deportiva del desarrollo social y personal.
-Este proyecto tiene la funcion de concientizar a los jovenes y niños de hoy en dia sobre la relevancia que tienen las actividades recreativas en este caso utlizaremos el futbol, para que en su tiempo libre no se dediquen a actividades poco producctivas con las cuales en un futuro pueden salir gravemente perjudicados.
+Este proyecto tiene la funcion de concientizar a los jovenes y niños de hoy en dia sobre la relevancia que tienen las actividades recreativas, en este caso utlizaremos el futbol, para que en su tiempo libre no se dediquen a actividades poco producctivas con las cuales en un futuro pueden salir gravemente perjudicados.
 La finalidad de la Educación Física es fortalecer las aptitudes y capacidades de los individuos para tomar medidas preventivas encaminadas a la no aparición de alteraciones y así controlar los factores determinantes de la salud y lograr un cambio positivo.
 Podemos decir que el juego es un recurso didáctico, que usamos para estimular a los jóvenes con el fin, de que adquieran una serie de actitudes, valores y normas.
 
@@ -16,9 +16,13 @@ técnica deportiva.
 
 #OBJETIVOS DEL PROYECTO:
 
-Recrear y fomentar el deporte en los niños para alejarlos de los malos habitos en sus tiempos libres.
-promover una diciplina educativa en los niños fomentando la lectura, utilizando como metodos o recursos la historia del futbol.
-ayudar a los niños y jovenes apasionados del futbol a practicarlo mayor tecnicas, balon pie.
+.Recrear y fomentar el deporte en los niños para alejarlos de los malos habitos en sus tiempos libres.
+.promover una diciplina educativa en los niños fomentando la lectura, utilizando como metodos o recursos la historia del futbol.
+.ayudar a los niños y jovenes apasionados del futbol a practicarlo mayor tecnicas, balon pie.
+.Orientar un proyecto para capturar a nuevas generaciones en el deporte del fútbol
+.Promover un método lúdico para la iniciación del fútbol
+.Alejar durante una semana, a los alumnos de hábitos no beneficiosos, como pueden ser la televisión o los videojuegos y disminuir con ello el sedentarismo
+
 
 Integrantes: 
 # Nair Madera 
