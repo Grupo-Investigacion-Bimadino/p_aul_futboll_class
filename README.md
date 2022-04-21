@@ -1,7 +1,8 @@
 #EL FUTBOL COMO ACTIVIDAD RECREATIVA Y EDUCATIVA:
 
-#INTRODUCION
-cebido ala necesidad de hacer un README educativo un grupo de estudiantes de tercer y cuarto se mestre se coloca en la creacion de este, introduciendo al futbol como una actividad ludica, recreativay educativa, aplicando o asociando al contexto del corregimiento del carito ubicado en lorica- cordoba
+#INTRODUCION:
+
+Debido ala necesidad de hacer un README educativo un grupo de estudiantes de tercer y cuarto se mestre se coloca en la creacion de este, introduciendo al futbol como una actividad ludica, recreativay educativa, aplicando o asociando al contexto del corregimiento del carito ubicado en lorica- cordoba
 se trata o mas bien se basa sobre el desarrollo educativo en los procesos informativos y prácticos para una mejor profundización de los niños entre 8 a 12 años con el  fin de que aprendan mediante la fundamentacion  deportiva del desarrollo social y personal.
 Este proyecto tiene la funcion de concientizar a los jovenes y niños de hoy en dia sobre la relevancia que tienen las actividades recreativas en este caso utlizaremos el futbol, para que en su tiempo libre no se dediquen a actividades poco producctivas con las cuales en un futuro pueden salir gravemente perjudicados.
 La finalidad de la Educación Física es fortalecer las aptitudes y capacidades de los individuos para tomar medidas preventivas encaminadas a la no aparición de alteraciones y así controlar los factores determinantes de la salud y lograr un cambio positivo.
