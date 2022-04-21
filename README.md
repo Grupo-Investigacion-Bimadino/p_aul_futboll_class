@@ -18,9 +18,9 @@ técnica deportiva.
 
 .Recrear y fomentar el deporte en los niños para alejarlos de los malos habitos en sus tiempos libres.
 
-.promover una diciplina educativa en los niños fomentando la lectura, utilizando como metodos o recursos la historia del futbol.
+.Promover una diciplina educativa en los niños fomentando la lectura, utilizando como metodos o recursos la historia del futbol.
 
-.ayudar a los niños y jovenes apasionados del futbol a practicarlo mayor tecnicas, balon pie.
+.Ayudar a los niños y jovenes apasionados del futbol a practicarlo mayor tecnicas, balon pie.
 
 .Orientar un proyecto para capturar a nuevas generaciones en el deporte del fútbol
 
