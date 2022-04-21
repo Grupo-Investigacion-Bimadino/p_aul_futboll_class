@@ -14,7 +14,11 @@ De todos es sabido que la actividad física y el deporte son necesarios para el 
 hábitos saludables alcanzando una mejora en la calidad de vida. La iniciación al fútbol como actividad física dentro del sistema educativo solo debe ser enfocada desde un punto de vista puramente educativo, en el que la formación integral del alumnado se logre mediante los elementos del juego y la
 técnica deportiva.
 
-#OBJETIVOS DEL PROYECTO:
+#OBJETIVO GENERAL.
+
+Fomentar el futbol como una actividad recreativa y educativa en los niños del corregimiento del carito,ocupandolos en sus tiempos libres para que estos niños y jovenes no adquieran malos habitos que perjudiquen a largo plazo su vida, enseñandoles tecnicas basicas del futbol
+
+#OBJETIVOS ESPECIFICOS:
 
 .Recrear y fomentar el deporte en los niños para alejarlos de los malos habitos en sus tiempos libres.
 
