@@ -73,7 +73,18 @@ y todo lo relacionados con su origen, trataremos de resolver preguntas basicas, 
 -Esto tiene como objetivo evaluar todo el conocimiento que se adquirio en esta primera unidad.
 
 # creditos 
-# Material Com
+
+# Material Complementario
+1. PDF de todo lo relacionado con el Futbol. https://conadeb.conade.gob.mx/Documentos/Publicaciones/Futbol.pdf
+2. Diapositiva sobre la Historia del futbol. https://cursa.ihmc.us/rid=1PY18J67Y-9YYK6S-2M4X/historia_del_futbol.pptx
+3. PDF sobre 98 ejercicios relacionados con el entrenamiento del futbol https://entrenaenlinea.com/descargas/98EjerciciosdeEntrenamientodeFutbol.pdf
+4. Infografias sobre el futbol.
+5. enlaces de paginas y videos donde nos explican mas sobre el futbol.
+-https://definicion.de/futbol/
+-https://concepto.de/futbol/
+-https://www.youtube.com/watch?v=9K5k2TwgL3A
+-https://www.marca.com/claro-mx/futbol/2021/03/21/60567575e2704e89148b4621.html
+-https://dobleyfalta.com/nba/que-es-el-futbol-definicion.html
 
 
 
