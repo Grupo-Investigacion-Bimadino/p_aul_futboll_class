@@ -19,17 +19,17 @@ Fomentar el futbol como una actividad recreativa y educativa en los niños del c
 
 # OBJETIVOS ESPECIFICOS:
 
-.Recrear y fomentar el deporte en los niños para alejarlos de los malos habitos en sus tiempos libres.
+1. Recrear y fomentar el deporte en los niños para alejarlos de los malos habitos en sus tiempos libres.
 
-.Promover una disciplina educativa en los niños fomentando la lectura, utilizando como métodos o recursos de  la historia del futbol.
+2. Promover una disciplina educativa en los niños fomentando la lectura, utilizando como métodos o recursos de  la historia del futbol.
 
-.Ayudar a los niños y jovenes apasionados del futbol a practicarlo con mayor tecnica, balon pie.
+3. Ayudar a los niños y jovenes apasionados del futbol a practicarlo con mayor tecnica, balon pie.
 
-.Orientar un proyecto para capturar a nuevas generaciones en el deporte del fútbol
+4. Orientar un proyecto para capturar a nuevas generaciones en el deporte del fútbol
 
-.Promover un método lúdico para la iniciación del fútbol
+5. Promover un método lúdico para la iniciación del fútbol
 
-.Alejar durante una semana, a los alumnos de hábitos no beneficiosos, como pueden ser la televisión o los videojuegos y disminuir con ello el sedentarismo
+6. Alejar durante una semana, a los alumnos de hábitos no beneficiosos, como pueden ser la televisión o los videojuegos y disminuir con ello el sedentarismo
 
 # RESUMEN DEL PROYECTO 
 En este proyecto se dará una descripción sobre el REBA de Futbol, en el cual se busca fomentar a los niños a que practiquen esta actividad recreativa. No obstante, aquí se destacará tanto la historia del fútbol, el como y donde se formó, además las técnicas y reglas que este juego implementa para que tengan una gran acogida del deporte y sepan lo básico de este y la importancia que les puede traer este deporte en su vida diaria, es decir ayudarlos en su estado físico, entre otros. 
