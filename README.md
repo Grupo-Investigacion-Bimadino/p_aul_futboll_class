@@ -31,6 +31,8 @@ Fomentar el futbol como una actividad recreativa y educativa en los niños del c
 
 .Alejar durante una semana, a los alumnos de hábitos no beneficiosos, como pueden ser la televisión o los videojuegos y disminuir con ello el sedentarismo
 
+#RESUMEN.
+En este proyecto se dará una descripción sobre el REBA de Futbol, en el cual se busca fomentar a los niños a que practiquen esta actividad recreativa. No obstante, aquí se destacara tanto la historia del futbol como se formó y donde, además las técnicas y reglas que este implementa en este deporte para que tengan una gran acogida del deporte y sepan lo básico de este y la importancia que les puede traer este deporte en su vida diaria, es decir ayudarlos en su estado físico entre otros. 
 
 Integrantes: 
 # Nair Madera 

@@ -13,7 +13,7 @@ body{
 #container {
     
     /*width: 70%;*/
-    width: 1600px;
+    width: 1000px;
     margin: 0px auto;
     border: 1px solid black;
 }
@@ -47,7 +47,7 @@ nav{
 }
 #contenet{
     float: left;
-    width: 79%;
+    width: 78.1%;
     background: rgb(125, 228, 125);
     height: 1000px;
 }
