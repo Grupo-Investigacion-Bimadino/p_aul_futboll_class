@@ -60,10 +60,10 @@ y todo lo relacionado con su origen, trataremos de resolver preguntas basicas, s
 -En esta actividad se pretende que el niño tenga claro algunos terminos del deporte y ademas este es un buen ejercicio para desarrollar la mente.
 2. Despues de ver la imagenes, diga cual es el tipo de falta que se esta comentiendo en cada imagen.
 -Esta activid tiene como objetivo que el niño sepa reconocer los tipos de falta y la clase de situacion a la que se le implementan.
-3. resuelva el siguiente crucigrama sobre las tecnicas del futbol.
+3. Resuelva el siguiente crucigrama sobre las tecnicas del futbol.
 -Esta actvidad se hace con el fin de que el niño sepa reconocer las tecnicas que se utilizan en el futbol.
 4. Escriba 5 ejercicios correspondientes a un calentamiento previo antes de empezar un partido.
--tiene como objetivo a que el niño empieze a investigar y se adentre al mundo de la educacion fisica.
+-Tiene como objetivo a que el niño empieze a investigar y se adentre al mundo de la educacion fisica.
 
 
 # EVALUACIONES:
@@ -82,7 +82,7 @@ y todo lo relacionado con su origen, trataremos de resolver preguntas basicas, s
 2. Diapositiva sobre la Historia del futbol. https://cursa.ihmc.us/rid=1PY18J67Y-9YYK6S-2M4X/historia_del_futbol.pptx
 3. PDF sobre 98 ejercicios relacionados con el entrenamiento del futbol https://entrenaenlinea.com/descargas/98EjerciciosdeEntrenamientodeFutbol.pdf
 4. Infografias sobre el futbol.
-5. enlaces de paginas y videos donde nos explican mas sobre el futbol.
+5. Enlaces de paginas y videos donde nos explican mas sobre el futbol.
 -https://definicion.de/futbol/
 -https://concepto.de/futbol/
 -https://www.youtube.com/watch?v=9K5k2TwgL3A
