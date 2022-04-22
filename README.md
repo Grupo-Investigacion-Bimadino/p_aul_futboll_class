@@ -2,7 +2,7 @@
 
 #INTRODUCION:
 
-Debido ala necesidad de hacer un README educativo un grupo de estudiantes de tercer y cuarto semestre se coloca en la creacion de este, introduciendo al futbol como una actividad ludica, recreativa y educativa, aplicando o asociando al contexto del corregimiento del Carito ubicado en lorica- cordoba
+Debido ala necesidad de hacer un README educativo un grupo de estudiantes de tercer y cuarto semestre de licenciatura en informatica de la un universidad de cordoba se coloca en la creacion de este, introduciendo al futbol como una actividad ludica, recreativa y educativa, aplicando o asociando al contexto del corregimiento del Carito ubicado en lorica- cordoba.
 se trata o mas bien se basa sobre el desarrollo educativo en los procesos informativos y prácticos para una mejor profundización de los niños entre 8 a 12 años con el  fin de que aprendan mediante la fundamentacion  deportiva del desarrollo social y personal.
 Este proyecto tiene la funcion de concientizar a los jovenes y niños de hoy en dia sobre la relevancia que tienen las actividades recreativas, en este caso utlizaremos el futbol, para que en su tiempo libre no se dediquen a actividades poco producctivas con las cuales en un futuro pueden salir gravemente perjudicados.
 La finalidad de la Educación Física es fortalecer las aptitudes y capacidades de los individuos para tomar medidas preventivas encaminadas a la no aparición de alteraciones y así controlar los factores determinantes de la salud y lograr un cambio positivo.
@@ -15,7 +15,7 @@ técnica deportiva.
 
 #OBJETIVO GENERAL.
 
-Fomentar el futbol como una actividad recreativa y educativa en los niños del corregimiento del carito, ocupandolos en sus tiempos libres para que estos niños y jovenes no adquieran malos habitos que perjudiquen a largo plazo su vida, enseñandoles tecnicas basicas del futbol
+Fomentar el futbol como una actividad recreativa y educativa en los niños del corregimiento del carito, ocupandolos en sus tiempos libres para que estos niños y jovenes no adquieran malos habitos que perjudiquen a largo plazo su vida, tambbien fomentar la lectura tomando como medio la historia del furbol, ya que este es muy llamativa pa los niños
 
 #OBJETIVOS ESPECIFICOS:
 
