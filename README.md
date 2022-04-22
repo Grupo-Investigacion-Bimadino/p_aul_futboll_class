@@ -2,9 +2,9 @@
 
 # INTRODUCION:
 
-Debido ala necesidad de hacer un README educativo un grupo de estudiantes de tercer y cuarto semestre de licenciatura en informatica de la un universidad de cordoba se coloca en la creacion de este, introduciendo al futbol como una actividad ludica, recreativa y educativa, aplicando o asociando al contexto del corregimiento del Carito ubicado en lorica- cordoba.
-se trata o mas bien se basa sobre el desarrollo educativo en los procesos informativos y prácticos para una mejor profundización de los niños entre 8 a 12 años con el  fin de que aprendan mediante la fundamentacion  deportiva del desarrollo social y personal.
-Este proyecto tiene la funcion de concientizar a los jovenes y niños de hoy en dia sobre la relevancia que tienen las actividades recreativas, en este caso utlizaremos el futbol, para que en su tiempo libre no se dediquen a actividades poco producctivas con las cuales en un futuro pueden salir gravemente perjudicados.
+Debido ala necesidad de hacer un README educativo un grupo de estudiantes de tercer y cuarto semestre de la carrera licenciatura en informatica de la universidad de cordoba se coloca en la creacion de este, introduciendo al futbol como una actividad ludica, recreativa y educativa, aplicando o asociando al contexto del corregimiento del Carito ubicado en lorica- cordoba.
+se trata o mas bien se basa sobre el desarrollo educativo en los procesos informativos y prácticos para una mejor profundización de los niños entre 8 a 12 años con el  fin de que aprendan mediante la fundamentación  deportiva del desarrollo social y personal.
+Este proyecto tiene la función de concientizar a los jovenes y niños de hoy en dia sobre la relevancia que tienen las actividades recreativas, en este caso utlizaremos el futbol, para que en su tiempo libre no se dediquen a actividades poco producctivas con las cuales en un futuro pueden salir gravemente perjudicados.
 La finalidad de la Educación Física es fortalecer las aptitudes y capacidades de los individuos para tomar medidas preventivas encaminadas a la no aparición de alteraciones y así controlar los factores determinantes de la salud y lograr un cambio positivo.
 Podemos decir que el juego es un recurso didáctico, que usamos para estimular a los jóvenes con el fin, de que adquieran una serie de actitudes, valores y normas.
 
@@ -15,15 +15,15 @@ técnica deportiva.
 
 # OBJETIVO GENERAL.
 
-Fomentar el futbol como una actividad recreativa y educativa en los niños del corregimiento del carito, ocupandolos en sus tiempos libres para que estos niños y jovenes no adquieran malos habitos que perjudiquen a largo plazo su vida, tambbien fomentar la lectura tomando como medio la historia del furbol, ya que este es muy llamativa pa los niños
+Fomentar el futbol como una actividad recreativa y educativa en los niños del corregimiento del carito, ocupandolos en sus tiempos libres para que estos niños y jovenes no adquieran malos habitos que perjudiquen a largo plazo su vida, tambbien fomentar la lectura tomando como medio la historia del furbol, ya que este es muy llamativo para los niños
 
 # OBJETIVOS ESPECIFICOS:
 
 .Recrear y fomentar el deporte en los niños para alejarlos de los malos habitos en sus tiempos libres.
 
-.Promover una diciplina educativa en los niños fomentando la lectura, utilizando como metodos o recursos la historia del futbol.
+.Promover una disciplina educativa en los niños fomentando la lectura, utilizando como métodos o recursos de  la historia del futbol.
 
-.Ayudar a los niños y jovenes apasionados del futbol a practicarlo mayor tecnicas, balon pie.
+.Ayudar a los niños y jovenes apasionados del futbol a practicarlo con mayor tecnica, balon pie.
 
 .Orientar un proyecto para capturar a nuevas generaciones en el deporte del fútbol
 
@@ -32,7 +32,7 @@ Fomentar el futbol como una actividad recreativa y educativa en los niños del c
 .Alejar durante una semana, a los alumnos de hábitos no beneficiosos, como pueden ser la televisión o los videojuegos y disminuir con ello el sedentarismo
 
 # Resumen DEL PROYECTO 
-En este proyecto se dará una descripción sobre el REBA de Futbol, en el cual se busca fomentar a los niños a que practiquen esta actividad recreativa. No obstante, aquí se destacara tanto la historia del futbol como se formó y donde, además las técnicas y reglas que este implementa en este deporte para que tengan una gran acogida del deporte y sepan lo básico de este y la importancia que les puede traer este deporte en su vida diaria, es decir ayudarlos en su estado físico entre otros. 
+En este proyecto se dará una descripción sobre el REBA de Futbol, en el cual se busca fomentar a los niños a que practiquen esta actividad recreativa. No obstante, aquí se destacará tanto la historia del fútbol, el como y donde se formó, además las técnicas y reglas que este juego implementa para que tengan una gran acogida del deporte y sepan lo básico de este y la importancia que les puede traer este deporte en su vida diaria, es decir ayudarlos en su estado físico, entre otros. 
 
 # INDICE:
 1. INICIO.
@@ -43,8 +43,8 @@ En este proyecto se dará una descripción sobre el REBA de Futbol, en el cual s
 6. MATERIAL COMPLEMENTERIO
 
 # INICIO:
-Daremos una breve descrpción del futbol, hablaremos de la historia, cracteristicas de este deporte 
-y todo lo relacionados con su origen, trataremos de resolver preguntas basicas, sobre el lugar donde se dio origen a este deporte, la persona o personas que lo crearon.
+Daremos una breve descrpción del fútbol, hablaremos de la historia, características de este deporte 
+y todo lo relacionado con su origen, trataremos de resolver preguntas basicas, sobre el lugar donde se dio origen a este deporte, la persona o personas que lo crearon.
 
 # CONTENIDO:
 1. Sistemas del Juego
@@ -56,7 +56,7 @@ y todo lo relacionados con su origen, trataremos de resolver preguntas basicas, 
 7. Tarjetas
 
 # ACTIVIDADES:
-1. resuelva esta sopa de letras sobre palabras relacionadas con el futbol.
+1. Resuelva esta sopa de letras sobre palabras relacionadas con el futbol.
 -En esta actividad se pretende que el niño tenga claro algunos terminos del deporte y ademas este es un buen ejercicio para desarrollar la mente.
 2. Despues de ver la imagenes, diga cual es el tipo de falta que se esta comentiendo en cada imagen.
 -Esta activid tiene como objetivo que el niño sepa reconocer los tipos de falta y la clase de situacion a la que se le implementan.
