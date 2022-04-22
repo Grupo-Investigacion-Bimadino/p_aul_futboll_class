@@ -31,16 +31,16 @@ Fomentar el futbol como una actividad recreativa y educativa en los niños del c
 
 .Alejar durante una semana, a los alumnos de hábitos no beneficiosos, como pueden ser la televisión o los videojuegos y disminuir con ello el sedentarismo
 
-#RESUMEN.
+# Resumen DEL PROYECTO 
 En este proyecto se dará una descripción sobre el REBA de Futbol, en el cual se busca fomentar a los niños a que practiquen esta actividad recreativa. No obstante, aquí se destacara tanto la historia del futbol como se formó y donde, además las técnicas y reglas que este implementa en este deporte para que tengan una gran acogida del deporte y sepan lo básico de este y la importancia que les puede traer este deporte en su vida diaria, es decir ayudarlos en su estado físico entre otros. 
 
 # INDICE:
-INICIO.
-CONTENIDO
-ACTIVIDADES
-EVALUACIONES
-CREDITOS 
-MATERIAL COMPLEMENTERIO
+1. INICIO.
+2. CONTENIDO
+3. ACTIVIDADES
+4. EVALUACIONES
+5. CREDITOS 
+6. MATERIAL COMPLEMENTERIO
 
 # INICIO:
 Daremos una breve descrpción del futbol, hablaremos de la historia, cracteristicas de este deporte 
@@ -55,7 +55,7 @@ y todo lo relacionados con su origen, trataremos de resolver preguntas basicas, 
 6. Faltas
 7. Tarjetas
 
-# Actividades:
+# ACTIVIDADES:
 1. resuelva esta sopa de letras sobre palabras relacionadas con el futbol.
 -En esta actividad se pretende que el niño tenga claro algunos terminos del deporte y ademas este es un buen ejercicio para desarrollar la mente.
 2. Despues de ver la imagenes, diga cual es el tipo de falta que se esta comentiendo en cada imagen.
@@ -66,7 +66,7 @@ y todo lo relacionados con su origen, trataremos de resolver preguntas basicas, 
 -tiene como objetivo a que el niño empieze a investigar y se adentre al mundo de la educacion fisica.
 
 
-# Evaluaciones
+# EVALUACIONES:
 
 1. Relacione las siguientes situaciones con la falta que usted cree que esta cometiendo el jugador.
 -Tiene como objetivo que el niño recozca la manera en la que se da el fuera de lugar en la cancha y que tipo de falta se esta cometiendo.
@@ -75,9 +75,9 @@ y todo lo relacionados con su origen, trataremos de resolver preguntas basicas, 
 3. Resuelva el siguiente cuestionario sobre la historia del futbol y el sistema de fuego.
 -Esto tiene como objetivo evaluar todo el conocimiento que se adquirio en esta primera unidad.
 
-# creditos 
+# CRÉDITOS:
 
-# Material Complementario
+# MATERIAL COMPLEMENTARIO:
 1. PDF de todo lo relacionado con el Futbol. https://conadeb.conade.gob.mx/Documentos/Publicaciones/Futbol.pdf
 2. Diapositiva sobre la Historia del futbol. https://cursa.ihmc.us/rid=1PY18J67Y-9YYK6S-2M4X/historia_del_futbol.pptx
 3. PDF sobre 98 ejercicios relacionados con el entrenamiento del futbol https://entrenaenlinea.com/descargas/98EjerciciosdeEntrenamientodeFutbol.pdf
