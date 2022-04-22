@@ -76,6 +76,12 @@ y todo lo relacionado con su origen, trataremos de resolver preguntas basicas, s
 -Esto tiene como objetivo evaluar todo el conocimiento que se adquirio en esta primera unidad.
 
 # CRÉDITOS:
+1. Nair Madera (Nairmadera08)- se encargará de editar la página de créditos. 
+2. Arnobel Chamorro (Chamo274) - se encargará de la guía de evaluación y su diseño. 
+3. María Juliana Martínez Herazo (mariajuliana29) - Se encargará de las Actividades y el diseño correspondiente. 
+4. Jaime Cervantes (Jaime148) - Se encargará del contenido y el diseño de este. 
+5. Donaldo Doria  (DNL06) - Se encargará de la página de material complementario y el diseño correspondiente de esta página. 
+
 
 # MATERIAL COMPLEMENTARIO:
 1. PDF de todo lo relacionado con el Futbol. https://conadeb.conade.gob.mx/Documentos/Publicaciones/Futbol.pdf
