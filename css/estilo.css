@@ -66,5 +66,5 @@ footer{
     line-height: 50px;
 }
 .color:hover{
-    text-emphasis-color: red;
+    color: aqua;
 }
