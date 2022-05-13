@@ -65,7 +65,12 @@ footer{
     height: 50px;
     line-height: 50px;
 }
+<<<<<<< HEAD
 
 nav:hover{
     color: aqua;
+=======
+.color:hover{
+    text-emphasis-color: red;
+>>>>>>> 472163650f46e1901357e855b052d0c9d3a54876
 }
