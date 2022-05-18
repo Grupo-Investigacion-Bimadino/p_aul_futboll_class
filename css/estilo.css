@@ -48,13 +48,13 @@ nav{
 #contenet{
     float: left;
     width: 78.1%;
-    background: rgb(125, 228, 125);
+    background:#2AC6C6 ;
     height: 1000px;
 }
 aside{
     float: left;
     width: 18.8%;
-    background:#2AC6C6;
+    background:rgb(5, 151, 151);
     height: 1000px;
 }
 
