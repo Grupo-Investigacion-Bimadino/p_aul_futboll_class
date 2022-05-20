@@ -1,0 +1,67 @@
+*{
+    
+    margin: 6px;
+    padding: 0px;
+}
+body{
+    
+    background: lightgray;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: justify;
+}
+
+#container {
+    
+    /*width: 70%;*/
+    width: 1000px;
+    margin: 0px auto;
+    border: 1px solid black;
+}
+header{
+    
+    background: rgb(6, 88, 155);
+    height: 100px;
+    width: 99%;
+    margin: 5px;
+    text-align: center;
+    line-height: 100px;
+    color: white;
+    border-bottom: 3px white;
+}
+
+nav{
+    
+    background: lightblue;
+    height: 70px;
+    
+    
+    width: 99%;
+    margin: 5px;
+    text-align: center;
+    line-height: 70px;
+    color: rgb(0, 0, 0);
+    list-style: nome;
+}
+.clearfix{
+    clear: both;
+}
+#contenet{
+    float: left;
+    width: 78.1%;
+    background: rgb(125, 228, 125);
+    height: 1000px;
+}
+aside{
+    float: left;
+    width: 18.8%;
+    background: rgb(6, 88, 155);
+    height: 1000px;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 50px;
+    line-height: 50px;
+}
