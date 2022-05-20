@@ -19,7 +19,7 @@ body{
 }
 header{
     
-    background: rgb(6, 88, 155);
+    background:#7CE4E4;
     height: 100px;
     width: 99%;
     margin: 5px;
@@ -31,7 +31,7 @@ header{
 
 nav{
     
-    background: lightblue;
+    background:#4ED4D4 ;
     height: 70px;
     
     
@@ -48,29 +48,23 @@ nav{
 #contenet{
     float: left;
     width: 78.1%;
-    background: rgb(125, 228, 125);
+    background:#2AC6C6 ;
     height: 1000px;
 }
 aside{
     float: left;
     width: 18.8%;
-    background: rgb(6, 88, 155);
+    background:rgb(5, 151, 151);
     height: 1000px;
 }
 
 footer{
-    background-color: black;
+    background-color: #008B8B;
     color: white;
     text-align: center;
     height: 50px;
     line-height: 50px;
 }
-<<<<<<< HEAD
-
-nav:hover{
-    color: aqua;
-=======
 .color:hover{
-    text-emphasis-color: red;
->>>>>>> 472163650f46e1901357e855b052d0c9d3a54876
+    color: aqua;
 }
