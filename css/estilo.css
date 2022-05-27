@@ -66,5 +66,18 @@ footer{
     line-height: 50px;
 }
 .color:hover{
+<<<<<<< HEAD
     color: rgb(170, 4, 18);
+=======
+    color: aqua;
+}
+
+header {
+    color: black;
+}
+
+.evaluciones1 {
+    color: black;
+    border: 1px solid red;
+>>>>>>> 0634237cbd956e3e9e340fad27140ef825b69489
 }
