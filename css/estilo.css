@@ -68,3 +68,12 @@ footer{
 .color:hover{
     color: aqua;
 }
+
+header {
+    color: black;
+}
+
+.evaluciones1 {
+    color: black;
+    border: 1px solid red;
+}
