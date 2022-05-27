@@ -19,7 +19,7 @@ body{
 }
 header{
     
-    background:#7CE4E4;
+    background:#008B8B;
     height: 100px;
     width: 99%;
     margin: 5px;
@@ -66,5 +66,5 @@ footer{
     line-height: 50px;
 }
 .color:hover{
-    color: aqua;
+    color: rgb(170, 4, 18);
 }
