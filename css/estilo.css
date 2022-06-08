@@ -20,12 +20,7 @@ body{
     border: 1px solid black;
 }
 header{
-    
-<<<<<<< Updated upstream
-    background:#008B8B;
-=======
     background: rgba( 66,151, 66,1);
->>>>>>> Stashed changes
     height: 100px;
     width: 99%;
     margin: 5px;
@@ -37,11 +32,7 @@ header{
 
 nav{
     
-<<<<<<< Updated upstream
-    background:#4ED4D4 ;
-=======
     background: rgba(177,217,177,1) ;
->>>>>>> Stashed changes
     height: 70px;
     
     
@@ -58,56 +49,22 @@ nav{
 #contenet{
     float: left;
     width: 78.1%;
-<<<<<<< Updated upstream
-    background:#2AC6C6 ;
-=======
     background: rgba(118,186,118,1);
->>>>>>> Stashed changes
-    height: 1000px;
+    height: 1700px;
 }
 aside{
     float: left;
     width: 18.8%;
-<<<<<<< Updated upstream
-    background:rgb(5, 151, 151);
-=======
     background: rgba(27,115, 27,1);
->>>>>>> Stashed changes
-    height: 1000px;
+    height: 1700px;
 }
 
 footer{
-<<<<<<< Updated upstream
-    background-color: #008B8B;
-=======
     background: rgba(3,73,3);
->>>>>>> Stashed changes
     color: white;
     text-align-last: center;
     height: 50px;
     line-height: 50px;
 }
-<<<<<<< Updated upstream
-
-.evaluacion1 {
-    background: yellow;
-    border: 1px solid black;
-    text-align: center;
-    color: black;
-    line-height: 40px;
-    width: 150px;
-    height: 50px;
-    font-size: large;
-    margin-left: 50px;
-    margin-top: 20px;
+.color:hover {color: cyan;
 }
-
-.evaluacion1:hover {
-    color: red;
-    background: white;
-}
-=======
-.color:hover{
-    color: cyan;
-}
->>>>>>> Stashed changes
