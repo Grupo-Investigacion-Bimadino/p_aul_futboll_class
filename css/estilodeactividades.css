@@ -4,7 +4,7 @@
     padding: 0px;
 }
 body{
-    
+    background-color:rgb(168, 219, 188) ;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: justify;
     
@@ -19,19 +19,19 @@ body{
 }
 header{
     
-    background: #008B8B ;
+    background:  #FFD58C;
     height: 100px;
     width: 99%;
     margin: 5px;
     text-align: center;
     line-height: 100px;
-    color: white;
+    color: black;
     border-bottom: 3px white;
 }
 
 nav{
     
-    background: #4ED4D4 ;
+    background: #FFE5B6 ;
     height: 70px;
     
     
@@ -48,35 +48,38 @@ nav{
 #contenet{
     float: left;
     width: 78.1%;
-    background: #2AC6C6;
+    background: #E2A740;
     height: 1000px;
 }
 aside{
     float: left;
     width: 18.8%;
-    background: rgb(5, 151, 151) ;
+    background: #FEC767 ;
     height: 1000px;
 }
 
 footer{
-    background-color:#008B8B;
+    background-color:#BF841D;
     color: white;
     text-align: center;
     height: 50px;
     line-height: 50px;
 }
 .color:hover{
-    color: rgb(170, 4, 18);
+    color: rgb(11, 18, 117);
 }
 .evaluacion1{
     width: 150px;
     height: 50px;
     line-height: 43px;
-    background: rgb(202, 79, 79);
+    background: rgb(5, 178, 221);
     text-align: center;
     margin: 30px;
     border: black solid 2px;
     font-size: larger;
     color: black;
     margin-left: 300px;
+}
+.evaluacion1:hover{
+    background-color: rgb(247, 142, 177);
 }
