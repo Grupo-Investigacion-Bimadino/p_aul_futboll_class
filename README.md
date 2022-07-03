@@ -55,22 +55,40 @@ y todo lo relacionado con su origen, trataremos de resolver preguntas basicas, s
 7. Tarjetas
 
 # ACTIVIDADES:
+<<<<<<< HEAD
 1. ¿Cual cree que es la función de lo siguientes jugadores?
 -Esta evaluacion se hace con el fin de lograr que el niño entienda las caracteristicas de los jugadores, la funcion de cada uno de ellos y la forma en que se desarrollan en la cancha.
 2.  Resuelva el siguiente crucigrama sobre palabras relacionadas con el futbol.
 -Esta actvidad se hace con el fin de que el niño sepa reconocer las tecnicas que se utilizan en el futbol.
 4. Escriba 5 ejercicios correspondientes a un calentamiento previo antes de empezar un partido.
+=======
+1. Relacione las siguientes situaciones con la falta que usted cree que esta cometiendo el jugador.
+-Tiene como objetivo que el niño recozca la manera en la que se da el fuera de lugar en la cancha y que tipo de falta se esta cometiendo.
+3. Escriba 5 ejercicios correspondientes a un calentamiento previo antes de empezar un partido.
+>>>>>>> d064e3e1b88cfbca33e54a4128c64175784e1476
 -Tiene como objetivo a que el niño empieze a investigar y se adentre al mundo de la educacion fisica.
+4. ¿Cual cree que es la función de lo siguientes jugadores?
+-Esta evaluacion se hace con el fin de lograr que el niño entienda las caracteristicas de los jugadores, la funcion de cada uno de ellos y la forma en que se desarrollan en la cancha.
+2. Resuelva el siguiente crucigrama sobre las tecnicas del futbol.
+-Esta actvidad se hace con el fin de que el niño sepa reconocer las tecnicas que se utilizan en el futbol.
+
+
+
 
 
 # EVALUACIONES:
 
 1. Resuelva el siguiente cuestionario sobre la historia del futbol y el sistema de fuego.
 -Esto tiene como objetivo evaluar todo el conocimiento que se adquirio en esta primera unidad.
+<<<<<<< HEAD
 2. Resuelva esta sopa de letras sobre las tecnicas del futbol .
 -En esta actividad se pretende que el niño tenga claro algunos terminos del deporte y ademas este es un buen ejercicio para desarrollar la mente.
+=======
+>>>>>>> d064e3e1b88cfbca33e54a4128c64175784e1476
 3. Despues de ver la imagenes, diga cual es el tipo de falta que se esta comentiendo en cada imagen.
 -Esta activid tiene como objetivo que el niño sepa reconocer los tipos de falta y la clase de situacion a la que se le implementan.
+
+
 
 
 # CRÉDITOS:
