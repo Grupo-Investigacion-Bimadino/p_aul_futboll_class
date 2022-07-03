@@ -46,16 +46,17 @@ nav{
     clear: both;
 }
 #contenet{
+    
     float: left;
     width: 78.1%;
     background: #2AC6C6;
-    height: 1000px;
+    height: 900px;
 }
 aside{
     float: left;
     width: 18.8%;
     background: rgb(5, 151, 151) ;
-    height: 1000px;
+    height: 900px;
 }
 
 footer{
@@ -66,5 +67,22 @@ footer{
     line-height: 50px;
 }
 .color:hover{
-    color: rgb(170, 4, 18);
+    color: rgb(13, 8, 80);
+}
+.evaluacion1{
+    width: 150px;
+    height: 50px;
+    line-height: 43px;
+    background: rgb(97, 247, 154);
+    text-align: center;
+    margin: 30px;
+    border: black solid 2px;
+    font-size: larger;
+    color: black;
+    margin-left: 300px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+.evaluacion1:hover{
+    background-color: rgb(4, 250, 250);
+    color: #000;
 }
