@@ -26,7 +26,7 @@ header{
     text-align: center;
     line-height: 100px;
     color: white;
-    border-bottom: 3px white;
+    
 }
 
 nav{
@@ -40,7 +40,6 @@ nav{
     text-align: center;
     line-height: 70px;
     color: rgb(0, 0, 0);
-    list-style: nome;
 }
 .clearfix{
     clear: both;
