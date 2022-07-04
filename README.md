@@ -97,6 +97,7 @@ y todo lo relacionado con su origen, trataremos de resolver preguntas basicas, s
 3. María Juliana Martínez Herazo (mariajuliana29) - Se encargará de las Actividades y el diseño correspondiente. 
 4. Jaime Cervantes (Jaime148) - Se encargará del contenido y el diseño de este. 
 5. Donaldo Doria  (DNL06) - Se encargará de la página de material complementario y el diseño correspondiente de esta página. 
+##  No actualuzron el proyecto n la nube, github..
 
 
 # MATERIAL COMPLEMENTARIO:
