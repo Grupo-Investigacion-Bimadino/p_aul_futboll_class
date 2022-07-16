@@ -14,7 +14,7 @@ De todos es sabido que la actividad física y el deporte son necesarios para el 
 
 # OBJETIVO GENERAL:
 
-Fomentar el futbol como una actividad recreativa y educativa en los niños del corregimiento del carito, para que sus tiempos libres estos niños y jovenes puedan dedicarlos a estos tipos de actividades y no adquieran malos habitos que perjudiquen a largo plazo su vida, tambbien fomentar la lectura tomando como medio la historia del furbol, ya que este es muy llamativo para los niños
+Fomentar el futbol como una actividad recreativa y educativa en los niños del corregimiento del carito, para que sus tiempos libres estos niños y jovenes puedan dedicarlos a estos tipos de actividades y no adquieran malos habitos que perjudiquen a largo plazo su vida, tambien fomentar la lectura tomando como medio la historia del furbol, ya que este es muy llamativo para los niños
 
 # OBJETIVOS ESPECIFICOS:
 
