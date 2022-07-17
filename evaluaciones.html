@@ -26,37 +26,20 @@
         <section id="contenet">
     
             <article class="article">
-                <center>
-                <p><b><h3>Evaluaciones respectos a los contenidos expuestos en el desarrollo de la pagina:</h3></b></p>
-                <br>
-                </center>
-                    <p>Evaluacion respecto a la historia del futbol, darle click al recuadro para dirigirse
-                        a la pagina donde se relizara la evaluacion (tomar captura del resultado y subir al drive)
-                    </p>
-                    <ul class="evaluacion1" >
-                        <a href="https://es.educaplay.com/recursos-educativos/12154305-historia_del_futbol.html">Evaluacion 1</a>
-                    </ul>
-                    <p>Evaluacion respecto a la tecnica del futbol, darle click al recuadro para dirigirse
-                        a la pagina donde se realizara la evaluacion (tomar captura del resultado y subir al drive)
-                    </p>
-                    <ul class="evaluacion1" >
-                        <a href="https://es.educaplay.com/recursos-educativos/12155211-tecnicas_del_futbol.html">Evaluacion 2</a>
-                    </ul>
-                    <p>Evaluacion respecto a faltas en el futbol, darle click al recuadro para dirigirse
-                        a la pagina donde se realizara la evaluacion (tomar captura del resultado y subir al drive)
-                    </p>
-                    <ul class="evaluacion1" >
-                        <a href="https://es.educaplay.com/recursos-educativos/12159239-faltas_en_el_futbol.html">Evaluacion 3</a>
-                    </ul>   
-                    <center>
-                    <img src="./imagenes/png-clipart-football-player-ball-child-hand-removebg-preview.png" alt="balon" width="200px" height="200px">
-                   <p><h1>¡Suerte!</h1></p>
-                </center>
+                <center><h1>PREGUNTAS CON UNICA RESPUESTA</h1></center>
+                <div id="test"></div>
+                 <center><br><button id="boton"><h1>Puntaje</h1></button></center>
+                 <div id="resultado"></div>
+                 <br>
+                 <script src="./evaluaciones.js"></script>
+                 <br>
+                  <center><img src="./imagenes/png-clipart-football-player-ball-child-hand-removebg-preview.png" alt="balon" width="200px" height="200px"></center>
+                  <br>
+                  <center> <p><h1>¡Suerte!</h1></p></center>
+
 
 
         </section>
-
-   
     
         <aside>
             <h2>Barra lateral</h2>
@@ -71,172 +54,6 @@
             Arnobel Chamorro- Nair Madera- Jaime cervantes- Donaldo Doria- Maria Martinez &copy;2022
         </footer>
     </div>
-    <script>
-        const contenedor = document.getElementById("test");
-const botonRes = document.getElementById("boton");
-const resultadoTest = document.getElementById("resultado");
-
-const preguntas = [
- {
-    pregunta: "1. ¿Qué significa Reda en educación?",
-    respuestas: {
-    a: "Los Reda son recursos educativos abiertos, son todas aquellas herramientas que se encuentran y se pueden utilizar en educación y que se han diseñado para el uso de la enseñanza desde un libro o video aplicándolos a las TICs.",
-    b: "tipo de material que tiene una intencionalidad y finalidad enmarcada en una acción Educativa, cuya información es Digital, y se dispone en una infraestructura de red privada.",
-	c: "constituye un material educativo con el cual se espera que los participantes identifiquen las tipologías y características del acuerdo con la Estrategia REDA", 
-    
-    },
-    respuestaCorrecta: "a",
-  },
-  {
-    pregunta: "2. Un REDA debería tener entre sus cualidades de utilización al menos uno    de los siguientes atributos:",
-    respuestas: {
-     a: "Pequeño",
-     b: "Ninguna de las anteriores",
-     c: "Adaptable",
-
-    },
-    respuestaCorrecta: "c",
-  },
-  {
-    pregunta: "3. ¿Qué ventajas tienen los REDA?",
-    respuestas: {
-      a: "Potencian las capacidades de las comunidades educativas en el uso de las TIC para enriquecer sus prácticas educativas y la calidad de la educación.",
-      b: "Fomentan la colaboración y cooperación para promover el intercambio, reutilización, adaptación, combinación y redistribución de recursos educativos digitales.",
-      c: "Fortalecen el acceso a la información y al conocimiento.",  
-      d:"Todas son correctas",
-    },
-    respuestaCorrecta: "d",
-  },
-  {
-    pregunta: "4. ¿Para qué sirve el reda?",
-    respuestas: {
-      a: "Los REDA son aquellos recursos educativos que tienen proveen un sin número de material educativo e información digital a disposición de todos, la finalidad de los REDA esta en brindar y alimentar a los AVA y a su vez a los OVA.",
-      b: "Los REDA se imposibilita entre otros aspectos, el aprendizaje fuera del aula física, el aprendizaje estratégico, la flexibilidad en el ritmo de aprendizaje, la adaptabilidad y la diversidad de entornos y ambientes de aprendizaje.",
-      c: "Este tipo de material que tiene una intencionalidad y finalidad enmarcada en una acción no Educativa, cuya información es Digital, y se dispone en una infraestructura de red privada.",
-    },
-    respuestaCorrecta: "a",
-  },
-  {
-    pregunta: "5. ¿Cuál es la finalidad de los recursos educativos digitales?",
-    respuestas: {
-      a: "Los usan para facilitar la comunicación, hacer más atractivas las explicaciones, ayudar en la comprensión de los contenidos.",
-      b: "Dispone de una adquisición del conocimiento más amplia para reforzar el aprendizaje con ejemplos más prácticos.",
-      c: "el empleo de los REDAS se establece en elementos de mediación pedagógica, tecnológica y comunicativa.",
-
-    },
-    respuestaCorrecta: "a",
-  },
-  {
-    pregunta: "6. ¿Qué características relevantes tienen los recursos educativos digitales?",
-    respuestas: {
-       a: "Las características de un Recurso Digital Educativo son: Diseño con una intencionalidad educativa. Apuntar al logro de un objetivo de aprendizaje. Responder a características didácticas apropiadas para el aprendizaje.",
-       b: "Facilita el autoaprendizaje al ritmo y conocimientos de estudiante.",
-       c:  "Este REDA constituye un material educativo con el cual se espera que los participantes identifiquen las tipologías y características del acuerdo con la Estrategia REDA.",
-       d: "Todas son correctas",
-
-    },
-    respuestaCorrecta: "d",
-  },
-  {
-    pregunta: "7. Características que deben identificar a un Recurso Educativo Digital Abierto es:",
-    respuestas: {
-       a: "Su fácil diseño", 
-       b: "Su reutilización",
-       c: "Ningunas de las anteriores",
-    },
-    respuestaCorrecta: "b",
-  },
-  {
-    pregunta: "8.Teniendo en cuenta que un REDA puede ser abierto o cerrado, estos deberían ser de carácter público.",
-    respuestas: {
-      a: "Absolutamente",
-      b: "Pueden ser privados pero no abiertos",
-      c: "No necesariamente. Pueden ser privados",
-    },
-
-    respuestaCorrecta: "c",  
-    },
-    
-    { 
-     
-     pregunta: "9.Los REDA al ser abiertos debería facilitar una especificidad en la información. Por ello se requiere la implementación de:",
-        respuestas: {     
-     a: "Cursos virtuales",
-     b: "Metadatos",
-     c: "Objetos de aprendizajes",
-    },
-
-    respuestaCorrecta: "c",  
-    },
-    
-  {
-  pregunta: "10. La utilización de un REDA debe justificarse por:",
-    respuestas: {
-	a: "Su intencionalidad educativa",
-    b:"Su apoyo al proceso de enseñanza y aprendizaje",
-    c:	"Todas las anteriores", 
-    },
-
-    respuestaCorrecta: "c",  
-    },
-];
-
-function mostrarTest() {
-  const preguntasYrespuestas = [];
-
-  preguntas.forEach((preguntaActual, numeroDePregunta) => {
-    const respuestas = [];
-
-    for (letraRespuesta in preguntaActual.respuestas) {
-      respuestas.push(
-        `<br/><label>
-                  <input type="radio" name="${numeroDePregunta}" value="${letraRespuesta}" />
-                  ${letraRespuesta} : ${preguntaActual.respuestas[letraRespuesta]}
-              <br/></label>`
-      );
-    }
-
-    preguntasYrespuestas.push(
-      `<br/><div class="cuestion">${preguntaActual.pregunta}</div>
-          <br/><div class="respuestas"> ${respuestas.join("")} </div>
-          `
-    );
-  });
-
-  contenedor.innerHTML = preguntasYrespuestas.join("");
-}
-
-mostrarTest();
-
-function mostrarResultado() {
-  const respuestas = contenedor.querySelectorAll(".respuestas");
-  let respuestasCorrectas = 0;
-
-  preguntas.forEach((preguntaActual, numeroDePregunta) => {
-    const todasLasRespuestas = respuestas[numeroDePregunta];
-    const checkboxRespuestas = `input[name='${numeroDePregunta}']:checked`;
-    const respuestaElegida = (
-      todasLasRespuestas.querySelector(checkboxRespuestas) || {}
-    ).value;
-
-    if (respuestaElegida === preguntaActual.respuestaCorrecta) {
-      respuestasCorrectas++;
-
-      respuestas[numeroDePregunta].style.color = "green";
-    } else {
-      respuestas[numeroDePregunta].style.color = "red";
-    }
-  });
-
-  resultadoTest.innerHTML =
-    "preguntas acertadas " +
-    respuestasCorrectas +
-    " de un total de " +
-    preguntas.length;
-}
-
-botonRes.addEventListener("click", mostrarResultado);
-
-    </script>
+   
 </body>
 </html>
