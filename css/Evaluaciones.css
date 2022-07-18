@@ -1,13 +1,14 @@
+
 *{
-    
-    margin: 6px;
+    margin: 3px;
     padding: 0px;
-}
+}    
+
 body{
-    background-color:rgb(168, 219, 188) ;
+    background-color: rgb(193, 214, 201);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: justify;
-    
+   
 }
 
 #container {
@@ -18,54 +19,84 @@ body{
     border: 1px solid black;
 }
 header{
-    
-    background: #B38989;
+    background:#B38989;
     height: 100px;
     width: 99%;
-    margin: 5px;
     text-align: center;
     line-height: 100px;
-    color: white;
-    
+    color: black;
+    border-bottom: 3px white;
+    margin-left: 6px;
+
 }
 
 nav{
     
-    background: #FFECEC ;
-    height: 70px;
-    width: 99%;
-    margin: 5px;
+    background: #FFECEC;
+    height: 94px;
     text-align: center;
     line-height: 70px;
     color: rgb(0, 0, 0);
+    list-style: nome;
+    font-family: helvetica;  
+    margin: 5px;
 }
 .clearfix{
     clear: both;
 }
 #contenet{
-    
     float: left;
     width: 78.1%;
     background: #D7B6B6;
-    height: 3000px;
+    height: 1700px;
+    
+    
 }
 aside{
     float: left;
-    width: 18.8%;
+    width: 20%;
     background: #926363 ;
-    height: 3000px;
+    height: 1700px;
+    color: white;
+    
 }
 
 footer{
-    background-color:#623B3B;
-    color: white;
-    text-align: center;
+    background: #623B3B;
+    color:white;
+    text-align-last: center;
     height: 50px;
     line-height: 50px;
 }
-.color:hover{
-    color: rgb(13, 8, 80);
+.color:hover {color: cyan;
 }
+ul{
+    list-style: none;
+  }
+  #menu li>a{
+    background-color: #FFECEC;
+    color: black;
+    padding: 8px;
+    display: block;
+    text-decoration: none;
+    min-width: 120px;
+    height: 68px;
+  }
+  #menu li>a:hover{
+    color: #000;
+    background-color: #eaeaea;
+  }
+  #menu>li{
+    float: left;
+    text-align:center
+  }
+  #menu>li>ul{
+    display: none;
+  }
+  #menu>li:hover>ul {
+    display:block;
+  }
+  
 .evaluacion1{
     width: 150px;
     height: 50px;

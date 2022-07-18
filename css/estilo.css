@@ -18,7 +18,7 @@ body{
     border: 1px solid black;
 }
 header{
-    background:#BCBEC6;
+    background:#B7C3BF;
     height: 100px;
     width: 99%;
     text-align: center;
@@ -31,7 +31,7 @@ header{
 
 nav{
     
-    background: #8D92A1;
+    background: #879D96;
     height: 94px;
     text-align: center;
     line-height: 70px;
@@ -46,7 +46,7 @@ nav{
 #contenet{
     float: left;
     width: 78.1%;
-    background: rgb(170, 176, 195);
+    background: #65847A;
     height: 1700px;
     
     
@@ -54,14 +54,14 @@ nav{
 aside{
     float: left;
     width: 20%;
-    background: #4F5772;
+    background: #4A6E62;
     height: 1700px;
     color: white;
     
 }
 
 footer{
-    background: #373F59;
+    background: #32564A ;
     color:white;
     text-align-last: center;
     height: 50px;
@@ -73,7 +73,7 @@ ul{
     list-style: none;
   }
   #menu li>a{
-    background-color: #8D92A1;
+    background-color: #879D96;
     color: white;
     padding: 8px;
     display: block;
