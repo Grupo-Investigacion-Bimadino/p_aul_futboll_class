@@ -5,7 +5,7 @@
 
 body{
     background-color: rgb(220, 230, 223);
-    font-family: initial;
+    font-family: 'Tahoma', Geneva, Verdana, sans-serif;
     text-align: justify;
    
 }
@@ -46,7 +46,7 @@ nav{
     float: left;
     width: 78.1%;
     background: #65847A;
-    height: 1700px;
+    height: 2000px;
     
     
 }
@@ -54,7 +54,7 @@ aside{
     float: left;
     width: 20%;
     background: #4A6E62;
-    height: 1700px;
+    height: 2000px;
     color: white;
     
 }
