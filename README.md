@@ -55,21 +55,15 @@ y todo lo relacionado con su origen, trataremos de resolver preguntas basicas, s
 7. Tarjetas
 
 # ACTIVIDADES:
-<<<<<<< HEAD
 1. ¿Cual cree que es la función de lo siguientes jugadores?
 -Esta evaluacion se hace con el fin de lograr que el niño entienda las caracteristicas de los jugadores, la funcion de cada uno de ellos y la forma en que se desarrollan en la cancha.
 2.  Resuelva el siguiente crucigrama sobre palabras relacionadas con el futbol.
 -Esta actvidad se hace con el fin de que el niño sepa reconocer las tecnicas que se utilizan en el futbol.
-4. Escriba 5 ejercicios correspondientes a un calentamiento previo antes de empezar un partido.
-=======
-1. Relacione las siguientes situaciones con la falta que usted cree que esta cometiendo el jugador.
--Tiene como objetivo que el niño recozca la manera en la que se da el fuera de lugar en la cancha y que tipo de falta se esta cometiendo.
 3. Escriba 5 ejercicios correspondientes a un calentamiento previo antes de empezar un partido.
->>>>>>> d064e3e1b88cfbca33e54a4128c64175784e1476
 -Tiene como objetivo a que el niño empieze a investigar y se adentre al mundo de la educacion fisica.
 4. ¿Cual cree que es la función de lo siguientes jugadores?
 -Esta evaluacion se hace con el fin de lograr que el niño entienda las caracteristicas de los jugadores, la funcion de cada uno de ellos y la forma en que se desarrollan en la cancha.
-2. Resuelva el siguiente crucigrama sobre las tecnicas del futbol.
+5. Resuelva el siguiente crucigrama sobre las tecnicas del futbol.
 -Esta actvidad se hace con el fin de que el niño sepa reconocer las tecnicas que se utilizan en el futbol.
 
 

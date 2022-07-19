@@ -24,8 +24,8 @@ th{
 }    
 
 body{
-    background-color: rgb(193, 214, 201);
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(220, 230, 223);
+    font-family: 'initial';
     text-align: justify;
    
 }
@@ -38,7 +38,7 @@ body{
     border: 1px solid black;
 }
 header{
-    background: #abacad;
+    background:#C9D3DA;
     height: 100px;
     width: 99%;
     text-align: center;
@@ -51,7 +51,7 @@ header{
 
 nav{
     
-    background: #C9D3DA;
+    background: #abacad;
     height: 94px;
     text-align: center;
     line-height: 70px;
@@ -93,7 +93,7 @@ ul{
     list-style: none;
   }
   #menu li>a{
-    background-color: #C9D3DA;
+    background-color: #abacad;
     color: black;
     padding: 8px;
     display: block;

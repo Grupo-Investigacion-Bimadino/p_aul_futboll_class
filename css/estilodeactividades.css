@@ -4,8 +4,8 @@
 }    
 
 body{
-    background-color: rgb(193, 214, 201);
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(220, 230, 223);
+    font-family: 'initial';
     text-align: justify;
    
 }
@@ -46,7 +46,7 @@ nav{
 #contenet{
     float: left;
     width: 78.1%;
-    background: #E2A740;
+    background: #E2A740; 
     height: 1700px;
     
     
@@ -74,7 +74,7 @@ ul{
   }
   #menu li>a{
     background-color: #FFE5B6;
-    color: black;
+    color: rgb(22, 21, 21);
     padding: 8px;
     display: block;
     text-decoration: none;
@@ -82,8 +82,8 @@ ul{
     height: 68px;
   }
   #menu li>a:hover{
-    color:white;
-    background-color: #858383;
+    color: #000;
+    background-color: #eaeaea;
   }
   #menu>li{
     float: left;
@@ -95,3 +95,18 @@ ul{
   #menu>li:hover>ul {
     display:block;
   }
+  .evaluacion1{
+    width: 150px;
+    height: 50px;
+    line-height: 43px;
+    background: rgb(5, 178, 221);
+    text-align: center;
+    margin: 30px;
+    border: black solid 2px;
+    font-size: larger;
+    color: black;
+    margin-left: 300px;
+}
+.evaluacion1:hover{
+    background-color: rgb(247, 142, 177);
+}
