@@ -12,10 +12,10 @@ body{
 
 #container {
     
-    /*width: 70%;*/
-    width: 1000px;
-    margin: 0px auto;
-    border: 1px solid black;
+  width: 85%;
+  /*width: 1000px; */
+  margin: 0px auto;
+  border: 1px solid black;
 }
 header{
     background: #FFD58C;
@@ -91,6 +91,7 @@ ul{
   }
   #menu>li>ul{
     display: none;
+    position: fixed;
   }
   #menu>li:hover>ul {
     display:block;
