@@ -96,3 +96,19 @@ ul{
     display:block;
   }
 
+  div.sect1 {
+    width: 77%;
+    float: left;
+    margin: 0;
+    padding: 0;
+    text-size-adjust: auto;
+  }
+  div.sect2 {
+    width: 20%;
+    float: left;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    text-align: center;
+  }
+  
