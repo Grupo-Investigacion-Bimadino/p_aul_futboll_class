@@ -97,7 +97,7 @@ ul{
   }
 
   div.sect1 {
-    width: 77%;
+    width: 70%;
     float: left;
     margin: 0;
     padding: 0;
@@ -110,5 +110,9 @@ ul{
     padding: 0;
     border: 0;
     text-align: center;
+    font-size: 105%;
   }
-  
+  .p1{
+    width: 90%;
+    font-size: 105%;
+  }
