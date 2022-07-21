@@ -48,15 +48,15 @@ nav{
     float: left;
     width: 78.1%;
     background: rgb(170, 176, 195);
-    height: 1700px;
-    text-align: justify;
+    height: 1900px;
+    
     
 }
 aside{
     float: left;
     width: 20%;
     background: #4F5772;
-    height: 1700px;
+    height: 1900px;
     color: white;
     
 }
@@ -96,4 +96,7 @@ ul{
   }
   #menu>li:hover>ul {
     display:block;
+  }
+  .div{
+    text-align: justify;
   }
