@@ -11,7 +11,7 @@ body{
 }
 #container {
     
-  width: 85%;
+  width: 95%;
   /*width: 1000px; */
   margin: 0px auto;
   border: 1px solid black;
@@ -121,9 +121,10 @@ ul{
     height: 77%;
   }
   .p1{
-    margin-left: 20px;
+    margin-left: 40px;
+    margin-right: 30px;
   }
   .sect3{
-    margin-left: 20px;
-    margin-right: 54px;
+    margin-left: 40px;
+    margin-right: 30px;
   }
