@@ -97,7 +97,7 @@ ul{
   }
 
   div.sect1 {
-    width: 70%;
+    width: 72.5%;
     float: left;
     margin: 0;
     padding: 0;
@@ -119,4 +119,11 @@ ul{
   .niño{
     width: 77%;
     height: 77%;
+  }
+  .p1{
+    margin-left: 20px;
+  }
+  .sect3{
+    margin-left: 20px;
+    margin-right: 54px;
   }
