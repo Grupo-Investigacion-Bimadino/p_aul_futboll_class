@@ -74,11 +74,8 @@ y todo lo relacionado con su origen, trataremos de resolver preguntas basicas, s
 
 1. Resuelva el siguiente cuestionario sobre la historia del futbol y el sistema de fuego.
 -Esto tiene como objetivo evaluar todo el conocimiento que se adquirio en esta primera unidad.
-<<<<<<< HEAD
 2. Resuelva esta sopa de letras sobre las tecnicas del futbol .
 -En esta actividad se pretende que el niño tenga claro algunos terminos del deporte y ademas este es un buen ejercicio para desarrollar la mente.
-=======
->>>>>>> d064e3e1b88cfbca33e54a4128c64175784e1476
 3. Despues de ver la imagenes, diga cual es el tipo de falta que se esta comentiendo en cada imagen.
 -Esta activid tiene como objetivo que el niño sepa reconocer los tipos de falta y la clase de situacion a la que se le implementan.
 
@@ -109,9 +106,9 @@ y todo lo relacionado con su origen, trataremos de resolver preguntas basicas, s
 
 Integrantes: 
 # Nair Madera 
-## Franklin Martínez A. Docente
 # María Juliana Martínez Herazo
 # Arnobel Chamorro Cogollo
 # Jaime cervantes Arrieta 
 # Donaldo Doria Barrios
 
+# Franklin Martínez A. Docente
