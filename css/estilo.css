@@ -1,0 +1,130 @@
+*{
+    margin: 3px;
+    padding: 0px;
+}    
+
+body{
+    background-color: rgb(220, 230, 223);
+    font-family: 'Tahoma', Geneva, Verdana, sans-serif;
+    text-align: justify;
+   
+}
+#container {
+    
+  width: 95%;
+  /*width: 1000px; */
+  margin: 0px auto;
+  border: 1px solid black;
+}
+header{
+    background:#B7C3BF;
+    height: 100px;
+    width: 99%;
+    text-align: center;
+    line-height: 100px;
+    color: black;
+    border-bottom: 3px white;
+    margin-left: 6px;
+
+}
+
+nav{
+    
+    background: #879D96;
+    height: 94px;
+    text-align: center;
+    line-height: 70px;
+    color: rgb(0, 0, 0);
+    list-style: nome;
+    font-family: helvetica;  
+    margin: 5px;
+}
+.clearfix{
+    clear: both;
+}
+#contenet{
+    float: left;
+    width: 78.1%;
+    background: #65847A;
+    height: 2000px;
+    
+    
+}
+aside{
+    float: left;
+    width: 20%;
+    background: #4A6E62;
+    height: 2000px;
+    color: white;
+    
+}
+
+footer{
+    background: #32564A ;
+    color:white;
+    text-align-last: center;
+    height: 50px;
+    line-height: 50px;
+}
+.color:hover {color: cyan;
+}
+ul{
+    list-style: none;
+  }
+  #menu li>a{
+    background-color: #879D96;
+    color: white;
+    padding: 8px;
+    display: block;
+    text-decoration: none;
+    min-width: 144px;
+    height: 68px;
+  }
+  #menu li>a:hover{
+    color: #000;
+    background-color: #eaeaea;
+  }
+  #menu>li{
+    float: left;
+    text-align:center
+  }
+  #menu>li>ul{
+    display: none;
+    position: fixed;
+  }
+  #menu>li:hover>ul {
+    display:block;
+  }
+
+  div.sect1 {
+    width: 72.5%;
+    float: left;
+    margin: 0;
+    padding: 0;
+    text-size-adjust: auto;
+  }
+  div.sect2 {
+    width: 20%;
+    float: left;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    text-align: center;
+    font-size: 105%;
+  }
+  .p1{
+    width: 90%;
+    font-size: 105%;
+  }
+  .niño{
+    width: 77%;
+    height: 77%;
+  }
+  .p1{
+    margin-left: 40px;
+    margin-right: 30px;
+  }
+  .sect3{
+    margin-left: 40px;
+    margin-right: 30px;
+  }
